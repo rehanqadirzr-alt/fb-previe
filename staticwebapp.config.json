@@ -1,0 +1,8 @@
+{
+  "routes": [
+    {
+      "route": "/*",
+      "rewrite": "https://holy-mouse-27c0.funazjaanzr.workers.dev"
+    }
+  ]
+}
